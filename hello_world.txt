@@ -2,3 +2,4 @@ This is my first hello_world file.
 This is line 2 edit.
 This is line 3.
 This is a standard commit.
+This is a commit with vs code.
