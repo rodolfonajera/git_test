@@ -6,3 +6,4 @@ This is line 5.
 This is line 6.
 This is a standard commit.
 Another commit with vs code.
+This is line 9.
